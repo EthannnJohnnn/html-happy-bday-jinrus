@@ -41,7 +41,7 @@ body
     position: relative;
     background-color: #fff;
     width: 280px;
-    height: 370px;
+    height: 410px;
     overflow: hidden;
     transform-origin: left;
     box-shadow: inset 100px 20px 100px rg a (0, 0, 0, 0.2),
@@ -154,7 +154,7 @@ body
     position: absolute;
     background-color: #fff;
     width: 280px;
-    height: 370px;
+    height: 410px;
     z-index: -1;
     left: 0;
     top: 0;
